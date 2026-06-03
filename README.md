@@ -30,3 +30,8 @@ Diagrama de Calses UML
 
 ![Diagrama de Clases UML](diagrama_clases.png)
 
+### Diagrama de Secuencias (Ciclo de Vida del Préstamo)
+![Diagrama de Secuencias UML](diagrama_secuencias.png)
+
+
+
