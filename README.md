@@ -17,17 +17,17 @@ F- implementar una versión funcional del modelo diseñado,
 G- documentar y justificar las decisiones adoptadas.
 
 Requerimiento y Analisis de Disenho
-
 identificación del problema y sus actores,
 relevamiento de requerimientos funcionales básicos,
 identificación de clases del dominio,
 definición de atributos y métodos,
-
-Arquitectura de Sistemas
-Diagrama de Clases UML 
-![Diagrama de Clases UML](diagrama_clases.png)
-
-
 determinación de relaciones entre clases,
 distribución de responsabilidades,
 diseño de una solución orientada a objetos justificada.
+
+Arquitectura de Sistemas
+Diagrama de Calses UML 
+
+![Diagrama de Clases UML]
+
+Diagrama
