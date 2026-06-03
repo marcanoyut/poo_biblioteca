@@ -25,8 +25,8 @@ determinación de relaciones entre clases,
 distribución de responsabilidades,
 diseño de una solución orientada a objetos justificada.
 
-Arquitectura de Sistemas
-Diagrama de Calses UML 
+## Arquitectura de Sistemas
+### Diagrama de Calses UML 
 
 ![Diagrama de Clases UML](diagrama_clases.png)
 
