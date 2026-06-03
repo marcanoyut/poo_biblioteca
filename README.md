@@ -30,4 +30,3 @@ Diagrama de Calses UML
 
 ![Diagrama de Clases UML]
 
-Diagrama
