@@ -25,3 +25,8 @@ definición de atributos y métodos,
 determinación de relaciones entre clases,
 distribución de responsabilidades,
 diseño de una solución orientada a objetos justificada.
+
+## 📐 Arquitectura del Sistema
+
+### Diagrama de Clases UML
+![Diagrama de Clases UML](diagrama_clases.png)
