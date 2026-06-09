@@ -1,11 +1,11 @@
 # poo_biblioteca
-Trabajo Practico
+##Trabajo Practico
 
 Sistema de Gestión de Biblioteca, para representar
 entidades del mundo real, identificar responsabilidades, definir relaciones entre objetos y construir
 una solución coherente, modular y extensible.
 
-Objetivos 
+##Objetivos 
 
 
 A- analizar un problema del mundo real y traducirlo a un modelo orientado a objetos,
